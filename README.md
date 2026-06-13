@@ -1,4 +1,4 @@
-# Seasonal Rental Trends: A SQL-Based Analysis
+# Seasonal Rental Trends: A SQL-Based Business Intelligence Report
 
 ## Overview
 
